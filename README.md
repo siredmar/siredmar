@@ -5,4 +5,7 @@
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: armin.schlegel@gmx.de
 
+See [my CV](https://siredmar.github.io) if you like to know more.
+
 ![](https://github-readme-stats.vercel.app/api?username=siredmar&theme=dark&show_icons=true)
+
