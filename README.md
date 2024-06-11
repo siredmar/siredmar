@@ -3,7 +3,6 @@
 - 🔭 Have a look at my latest Open Source Project called [EdgeFarm](https://github.com/edgefarm).
 - 🌱 I really enjoy learning something new every day. Currently big topics are cloud native, kubernetes, edge computing
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: armin.schlegel@gmx.de
 
 See [my CV](https://siredmar.github.io) if you like to know more.
 
